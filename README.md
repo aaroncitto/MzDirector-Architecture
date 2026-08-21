@@ -1,4 +1,5 @@
 MzDirector: Portal de Reporting Corporativo Interactivo
+
 Aviso de Confidencialidad: Debido a políticas de privacidad y protección de datos corporativos, este documento opera exclusivamente como una Auditoría de Arquitectura Técnica. No se exponen archivos binarios .pbix, conjuntos de datos reales ni código fuente propietario asociado a la lógica de negocio.
 
 Resumen Ejecutivo
